@@ -1,0 +1,5 @@
+1.(Principal) "server=proyectofinal.c1oql5dp6oz0.us-east-1.rds.amazonaws.com;user=admin;pwd=admin2024;database=Respaldo;SslMode=none;";
+
+2.(Respaldo) "server=pruebas.c1oql5dp6oz0.us-east-1.rds.amazonaws.com;user=admin;pwd=adminbases;database=Pruebares;SslMode=none;";
+
+3.(Backup) "server=backup.c1oql5dp6oz0.us-east-1.rds.amazonaws.com;user=admin;pwd=masteradmin;database=Backup;SslMode=none;";
