@@ -37,7 +37,7 @@
             // cmbVistas
             // 
             this.cmbVistas.FormattingEnabled = true;
-            this.cmbVistas.Location = new System.Drawing.Point(112, 95);
+            this.cmbVistas.Location = new System.Drawing.Point(40, 97);
             this.cmbVistas.Name = "cmbVistas";
             this.cmbVistas.Size = new System.Drawing.Size(121, 21);
             this.cmbVistas.TabIndex = 0;
@@ -45,7 +45,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(112, 76);
+            this.label1.Location = new System.Drawing.Point(37, 72);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(127, 13);
             this.label1.TabIndex = 1;
@@ -54,7 +54,7 @@
             // dgvVistas
             // 
             this.dgvVistas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvVistas.Location = new System.Drawing.Point(312, 46);
+            this.dgvVistas.Location = new System.Drawing.Point(183, 97);
             this.dgvVistas.Name = "dgvVistas";
             this.dgvVistas.Size = new System.Drawing.Size(444, 254);
             this.dgvVistas.TabIndex = 2;

@@ -129,5 +129,16 @@ namespace ProyectoDBGrupo_4
             // Opcional: Cerrar el formulario principal si no se necesitas más
             // this.Close();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormBitacora frmBitacora = new FormBitacora();
+
+            frmBitacora.Show();
+
+        }
+
+
+
     }
 }
